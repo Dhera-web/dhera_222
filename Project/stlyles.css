@@ -1,0 +1,347 @@
+/* INDEX.HTML */
+a{
+  font-size: 25px;
+  text-transform: none;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-top: 25px;
+}
+.hero{
+   margin-left: 40px;
+}
+.fa-house{
+  position: relative;
+  bottom: 400px;
+  right: 50px;
+}
+.fa-suitcase{
+  position: relative;
+  bottom: 390px;
+  right: 40px;
+}
+.radius{
+  position: relative;
+  bottom: 380px;
+  right: 40px;
+}
+.vid{
+  position: relative;
+  bottom: 360px;
+  right: 40px;
+}
+.pro{
+  position: relative;
+  bottom: 290px;
+  right: 40px;
+}
+.out{
+  position: relative;
+  bottom: 270px;
+  right: 40px;
+}
+h4{
+  position: relative;
+  bottom: 689px;
+   left: 755px;
+  color: white;
+  font-size: 32px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.chart{
+  position: relative;
+  bottom: 750px;
+  left: 755px;
+}
+/* .chatting{
+  position: relative;
+  bottom: 745px;
+  left: 755px;
+} */
+.New{
+  position: relative;
+  bottom: 780px;
+  left: 50px;
+  color: white;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.pic{
+  border-radius: 20px;
+  position: relative;
+  bottom: 830px;
+  left: 45px;
+}
+.pau{
+  border-radius: 20px;
+    position: relative;
+    bottom: 1000px;
+    left: 225px;
+}
+.pout{
+  border-radius: 20px;
+    position: relative;
+    bottom: 1170px;
+    left: 404px;
+}
+.pal{
+  border-radius: 20px;
+    position: relative;
+    bottom: 1350px;
+    left: 590px;
+}
+.pino{
+  border-radius: 20px;
+    position: relative;
+    bottom: 1523px;
+    left: 775px;
+}
+.pinot{
+  border-radius: 20px;
+    position: relative;
+    bottom: 1699px;
+    left: 957px;
+}
+.pulley{
+  border-radius: 20px;
+    position: relative;
+    bottom: 1878px;
+    left: 1145px;
+}
+.panel{
+  position: fixed;
+  bottom: 0;
+}
+
+/* about.html */
+*{
+  background: rgb(0, 8, 24);
+}
+.link{
+  text-transform: none;
+    text-decoration: none;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+    left: 2rem;
+}
+.Search{
+  height: 50px;
+    width: 500px;
+  border-radius: 30px;
+    border: 2px solid rgb(0, 8, 24);
+    background: rgb(0, 8, 24);
+    color: white;
+    margin-top: 20px;
+    position: relative;
+    bottom: 70px;
+    top: 20px;
+    left: 5px;
+    right: 500px;
+}
+.fa-musik{
+  margin-right: 0px;
+    font-size: 20px;
+    position: relative;
+    bottom: 2px;
+    top: 20px;
+}
+.fa-home{
+  margin-left: 60px;
+  position: relative;
+    right: 70px;
+    bottom: 270px;
+}
+.fa-bag{
+   margin-left: 60px;
+  position: relative;
+  right: 60px; 
+  bottom: 260px;
+}
+.rad{
+   margin-left: 60px;
+  position: relative;
+  right: 60px;
+  bottom: 240px;
+}
+.video{
+  margin-left: 60px;
+    position: relative;
+    right: 60px;
+    bottom: 220px;
+}
+.fa-use{
+  margin-left: 60px;
+    position: relative;
+    right: 60px;
+    bottom: 170px;
+}
+.lead{
+  border-radius: 20px;
+  position: relative;
+  left: 40px;
+}
+.Log{
+  margin-left: 60px;
+    position: relative;
+    right: 55px;
+    bottom: 155px;
+}
+.thirteen{
+  position: fixed;
+  bottom: 0;
+}
+.tunes{
+  position: relative;
+  color: aqua;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  bottom: 490px;
+  left: 340px;
+}
+.para{
+  position: relative;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  bottom: 500px;
+  left: 340px;
+  width: 60%;
+  font-weight: lighter;
+}
+.twe{
+  position: relative;
+  bottom: 500px;
+  left: 330px;
+}
+.water{
+  position: relative;
+  bottom: 540px;
+  left: 430px;
+}
+.pour{
+  position: relative;
+  bottom: 580px;
+  left: 590px;
+}
+.deputy{
+  position: relative;
+  bottom: 490px;
+  left: 40px;
+}
+.council{
+  position: relative;
+  bottom: 480px;
+  left: 40px;
+}
+.chair{
+  position: relative;
+  bottom: 470px;
+  left: 40px;
+}
+.token{
+  position: relative;
+  bottom: 460px;
+  left: 40px;
+}
+/* .onze{
+  position: relative;
+  bottom: 120px;
+  right: 800px;
+  border-radius: 20px;
+}
+.zero{
+  color: red;
+  font-size: 60px;
+
+}
+/* collection.html */
+*{
+ background: rgb(0, 8, 24);
+}
+.dove{
+  position: relative;
+  top: 20px;
+  left: 25px;
+}
+.fa-musi{
+  position: relative;
+  top: 120px;
+  right: 109px;
+}
+.sear{
+  position: relative;
+  padding: 20px;
+  border-radius: 30px;
+  width: 500px;
+  right: 100px;
+  top: 95px;
+  background: rgb(0, 8, 24);
+  border: 2px solid rgb(0, 8, 24);
+  }
+.fa-homr{
+  position: relative;
+  top: 92px;
+  left: 2px;
+}
+.fa-bali{
+  position: relative;
+  top: 90px;
+  left: 3;
+}
+.raid{
+  position: relative;
+  top: 95px;
+  left: 10px;
+}
+.vide{
+  position: relative;
+  top: 105px;
+  left: 10px;
+}
+.fa-us{
+   position: relative;
+   top: 140px;
+   left: 10px;
+}
+.Logue{
+  position: relative;
+  top: 145px;
+  left: 10px;
+}
+.collect{
+  position: relative;
+  bottom: 45px;
+  left: 70px;
+  width: 170px;
+}
+.Red{
+  width: 170px;
+  position: relative;
+  bottom: 235px;
+  left: 260px;
+}
+.human{
+  width: 170px;
+  position: relative;
+  bottom: 430px;
+  left: 450px;
+}
+.face{
+  width: 170px;
+  position: relative;
+  bottom: 620px;
+  left: 650px;
+}
+.musica{
+  position: fixed;
+  bottom: 0;
+}
+.fra{
+  position: relative;
+  bottom: 860px;
+  left: 100px;
+}
+.fer{
+  position: relative;
+  bottom: 899px;
+  left: 240px;
+}
